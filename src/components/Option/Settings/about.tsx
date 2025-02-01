@@ -76,11 +76,11 @@ export const AboutApp = () => {
                 label: "X (formerly Twitter)",
                 children: (
                   <a
-                    href="https://twitter.com/page_assist"
+                    href="https://twitter.com/slash_a"
                     target="_blank"
                     rel="noreferrer"
                     className="text-blue-500 dark:text-blue-400">
-                    @page_assist
+                    @slash_a
                   </a>
                 )
               }
@@ -92,16 +92,9 @@ export const AboutApp = () => {
             </p>
 
             <div className="flex gap-2">
-              <a
-                href="https://ko-fi.com/n4ze3m"
-                target="_blank"
-                rel="noreferrer"
-                className="text-blue-500 dark:text-blue-400 border dark:border-gray-600 px-2.5 py-2 rounded-md">
-                {t("about.koFi")}
-              </a>
 
               <a
-                href="https://github.com/sponsors/n4ze3m"
+                href="https://github.com/sponsors/Arcotic-Solutions-Ltd"
                 target="_blank"
                 rel="noreferrer"
                 className="text-blue-500 dark:text-blue-400 border dark:border-gray-600 px-2.5 py-2 rounded-md">
