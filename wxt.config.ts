@@ -54,12 +54,12 @@ export default defineConfig({
     version: "1.4.4",
     name:
       process.env.TARGET === "firefox"
-        ? "Page Assist - A Web UI for Local AI Models"
+        ? "Slash A - A Web UI for Local AI Models"
         : "__MSG_extName__",
     description: "__MSG_extDescription__",
     default_locale: "en",
     action: {},
-    author: "n4ze3m",
+    author: "Arcotic-Solutions-Ltd",
     browser_specific_settings:
       process.env.TARGET === "firefox"
         ? {
