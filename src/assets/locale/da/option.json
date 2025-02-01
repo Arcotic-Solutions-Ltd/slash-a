@@ -1,0 +1,28 @@
+{
+    "newChat": "Ny Chat",
+    "selectAPrompt": "Vælg en Prompt",
+    "githubRepository": "GitHub Repository",
+    "settings": "Indstillinger",
+    "sidebarTitle": "Chathistorik",
+    "error": "Fejl",
+    "somethingWentWrong": "Noget gik galt",
+    "validationSelectModel": "Venligst vælg en model for at forsæætte",
+    "deleteHistoryConfirmation": "Er du sikker på at du vil slette denne historik?",
+    "editHistoryTitle": "Indtast en ny titel",
+    "temporaryChat": "Midlertidig Chat",
+    "more": {
+        "copy": {
+            "group": "Kopier",
+            "asText": "Kopier som tekst",
+            "asMarkdown": "Kopier som Markdown",
+            "success": "Kopieret til udklipsholder!"
+        },
+        "download": {
+            "group": "Download",
+            "text": "Tekstfil (.txt)",
+            "markdown": "Markdown (.md)",
+            "json": "JSON-fil (.json)"
+        },
+        "share": "Del"
+    }
+}

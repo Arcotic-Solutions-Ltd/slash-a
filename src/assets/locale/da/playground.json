@@ -1,0 +1,31 @@
+{
+    "ollamaState": {
+        "searching": "Søger efter din Ollama 🦙",
+        "running": "Ollama kør 🦙",
+        "notRunning": "Kan ikke oprette forbindelse til Ollama 🦙",
+        "connectionError": "Det lader til, at du har en forbindelsesfejl. Se venligst denne <anchor>dokumentation</anchor> for fejlfinding."
+    },
+    "formError": {
+        "noModel": "Vælg venligst en model",
+        "noEmbeddingModel": "Vælg venligst en embedding model under indstillinger > RAG side"
+    },
+    "form": {
+        "textarea": {
+            "placeholder": "Skriv en besked..."
+        },
+        "webSearch": {
+            "on": "Til",
+            "off": "Fra"
+        }
+    },
+    "tooltip": {
+        "searchInternet": "Søg Internettet",
+        "speechToText": "Tal til Tekst",
+        "uploadImage": "Upload Billed",
+        "stopStreaming": "Stop Streaming",
+        "knowledge": "Viden"
+    },
+    "sendWhenEnter": "Søg, når Indtast trykkes",
+    "welcome": "Hej! Hvordan kan jeg hjælpe dig i dag?",
+    "useOCR": "Udtræk tekst fra billede (OCR)"
+}

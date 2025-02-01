@@ -1,0 +1,28 @@
+{
+    "newChat": "Nuova Chat",
+    "selectAPrompt": "Scegli un Prompt",
+    "githubRepository": "GitHub Repository",
+    "settings": "Impsotazioni",
+    "sidebarTitle": "Cronologia Chat",
+    "error": "Errore",
+    "somethingWentWrong": "Qualcosa è andato storto",
+    "validationSelectModel": "Scegliere un modello per continuare",
+    "deleteHistoryConfirmation": "Sei sicuro che vuoi eliminare la cronologia?",
+    "editHistoryTitle": "Inserisci un nuovo titolo",
+    "temporaryChat": "Chat Temporanea",
+    "more": {
+        "copy": {
+            "group": "Copia",
+            "asText": "Copia come Testo",
+            "asMarkdown": "Copia come Markdown",
+            "success": "Copiato negli appunti!"
+        },
+        "download": {
+            "group": "Scarica",
+            "text": "File di Testo (.txt)",
+            "markdown": "Markdown (.md)",
+            "json": "File JSON (.json)"
+        },
+        "share": "Condividi"
+    }
+}
