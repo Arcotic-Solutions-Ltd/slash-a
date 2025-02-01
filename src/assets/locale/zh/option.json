@@ -1,0 +1,28 @@
+{
+    "newChat": "新聊天",
+    "selectAPrompt": "选择一个提示词",
+    "githubRepository": "GitHub 仓库",
+    "settings": "设置",
+    "sidebarTitle": "聊天历史",
+    "error": "错误",
+    "somethingWentWrong": "出现了错误",
+    "validationSelectModel": "请选择一个模型以继续",
+    "deleteHistoryConfirmation": "你确定要删除这个历史记录吗？",
+    "editHistoryTitle": "输入一个新的标题",
+    "temporaryChat": "临时聊天",
+    "more": {
+        "copy": {
+            "group": "复制",
+            "asText": "复制为文本",
+            "asMarkdown": "复制为 Markdown",
+            "success": "已复制到剪贴板！"
+        },
+        "download": {
+            "group": "下载",
+            "text": "文本文件 (.txt)",
+            "markdown": "Markdown 文件 (.md)",
+            "json": "JSON 文件 (.json)"
+        },
+        "share": "分享"
+    }
+}
