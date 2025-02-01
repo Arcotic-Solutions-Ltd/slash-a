@@ -1,14 +1,12 @@
-# Slash A
+# Slash Engine
 
-[![Join dialoqbase #welcome](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/bu54382uBd)
-
-Slash A is an open-source browser extension that provides a sidebar and web UI for your local AI model. It allows you to interact with your model from any webpage.
+Slash Engine is an open-source browser extension that provides a sidebar and web UI for your local AI model. It allows you to interact with your model from any webpage.
 ## Installation
 
-Slash A supports Chromium-based browsers like Chrome, Brave, and Edge, as well as Firefox.
+Slash Engine supports Chromium-based browsers like Chrome, Brave, and Edge, as well as Firefox.
 
-[![Chrome Web Store](https://pub-35424b4473484be483c0afa08c69e7da.r2.dev/UV4C4ybeBTsZt43U4xis.png)](https://chrome.google.com/webstore/detail/page-assist/jfgfiigpkhlkbnfnbobbkinehhfdhndo)
-[![Firefox Add-on](https://pub-35424b4473484be483c0afa08c69e7da.r2.dev/get-the-addon.png)](https://addons.mozilla.org/en-US/firefox/addon/page-assist/)
+[![Chrome Web Store](https://pub-35424b4473484be483c0afa08c69e7da.r2.dev/UV4C4ybeBTsZt43U4xis.png)](https://chrome.google.com/webstore/detail/slash-engine/jfgfiigpkhlkbnfnbobbkinehhfdhndo)
+[![Firefox Add-on](https://pub-35424b4473484be483c0afa08c69e7da.r2.dev/get-the-addon.png)](https://addons.mozilla.org/en-US/firefox/addon/slash-engine/)
 
 
 ## Features
@@ -32,8 +30,8 @@ want more features? Create an issue and let me know.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Arcotic-Solutions-Ltd/slash-a.git
-cd page-assist
+git clone https://github.com/Arcotic-Solutions-Ltd/slash-engine.git
+cd slash-engine
 ```
 
 2. Install the dependencies
@@ -126,7 +124,7 @@ This will start a development server and watch for changes in the source files. 
 
 ## Privacy
 
-Slash A does not collect any personal data. The only time the extension communicates with the server is when you are using the share feature, which can be disabled from the settings.
+Slash Engine does not collect any personal data. The only time the extension communicates with the server is when you are using the share feature, which can be disabled from the settings.
 
 All the data is stored locally in the browser storage. You can view the source code and verify it yourself.
 

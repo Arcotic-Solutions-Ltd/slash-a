@@ -22,7 +22,7 @@ Click the button below to deploy the code to Railway.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Arcotic-Solutions-Ltd/slash-a.git
+git clone https://github.com/Arcotic-Solutions-Ltd/slash-engine.git
 cd page-share-app
 ```
 

@@ -54,7 +54,7 @@ export default defineConfig({
     version: "1.4.4",
     name:
       process.env.TARGET === "firefox"
-        ? "Slash A - A Web UI for Local AI Models"
+        ? "Slash Engine - A Web UI for Local AI Models"
         : "__MSG_extName__",
     description: "__MSG_extDescription__",
     default_locale: "en",
