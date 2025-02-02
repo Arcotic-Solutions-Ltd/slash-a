@@ -1,6 +1,6 @@
 # Slash Engine
 
-Slash Engine is an open-source browser extension that provides a sidebar and web UI for your local AI model. It allows you to interact with your model from any webpage.
+Slash Engine is an open-source browser extension that offers a sidebar and web interface, enabling interaction with your local AI model directly from any webpage.
 ## Installation
 
 Slash Engine supports Chromium-based browsers like Chrome, Brave, and Edge, as well as Firefox.
