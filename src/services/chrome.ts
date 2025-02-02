@@ -4,7 +4,7 @@ const storage = new Storage()
 
 const DEFAULT_CHROME_AI_MODEL = {
   name: "Gemini Nano",
-  model: "chrome::gemini-nano::page-assist",
+  model: "chrome::gemini-nano::slash-engine",
   modified_at: "",
   provider: "chrome",
   size: 0,

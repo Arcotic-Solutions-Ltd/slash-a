@@ -45,7 +45,7 @@ export const pageAssistModel = async ({
   numThread?: number,
   useMlock?: boolean,
 }) => {
-  if (model === "chrome::gemini-nano::page-assist") {
+  if (model === "chrome::gemini-nano::slash-engine") {
     return new ChatChromeAI({
       temperature,
       topK

@@ -1,7 +1,7 @@
 {
     "heading": "Configurar Chrome AI",
     "status": {
-        "label": "Habilitar o deshabilitar el soporte de Chrome AI en Page Assist"
+        "label": "Habilitar o deshabilitar el soporte de Chrome AI en Slash Engine"
     },
     "error": {
         "browser_not_supported": "Esta versión de Chrome no es compatible con el modelo Gemini Nano. Por favor, actualice a la versión 127 o posterior.",

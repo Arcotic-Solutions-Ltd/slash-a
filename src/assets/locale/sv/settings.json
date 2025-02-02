@@ -286,7 +286,7 @@
             "placeholder": "Bärare token"
           }
         },
-        "help": "Om du har anslutningsproblem med Ollama på Page Assist, kan du konfigurera en custom ursprungs-URL. För att veta mer om konfigurationen, <anchor>klicka här</anchor>."
+        "help": "Om du har anslutningsproblem med Ollama på Slash Engine, kan du konfigurera en custom ursprungs-URL. För att veta mer om konfigurationen, <anchor>klicka här</anchor>."
       }
     }
   },
@@ -297,9 +297,9 @@
   "about": {
     "title": "Om",
     "heading": "Om",
-    "chromeVersion": "Page Assist Version",
+    "chromeVersion": "Slash Engine Version",
     "ollamaVersion": "Ollamaversion",
-    "support": "Du kan stödja Page Assist-projektet genom att donera eller sponsra genom följande plattformar:",
+    "support": "Du kan stödja Slash Engine-projektet genom att donera eller sponsra genom följande plattformar:",
     "koFi": "Stöd på Ko-fi",
     "githubSponsor": "Sponsra på GitHub",
     "githubRepo": "GitHub repository"

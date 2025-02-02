@@ -21,7 +21,7 @@ export const sendNotification = async (title: string, message: string) => {
 
 export const sendEmbeddingCompleteNotification = async () => {
   await sendNotification(
-    "Page Assist - Embedding Completed",
+    "Slash Engine - Embedding Completed",
     "The knowledge base embedding process is complete. You can now use the knowledge base for chatting."
   )
 }

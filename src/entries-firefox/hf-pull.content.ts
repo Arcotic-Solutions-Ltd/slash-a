@@ -2,11 +2,11 @@ export default defineContentScript({
   main(ctx) {
     const downloadModel = async (modelName: string) => {
       const ok = confirm(
-        `[Page Assist Extension] Do you want to pull the ${modelName} model? This has nothing to do with the huggingface.co website. The model will be pulled locally once you confirm. Make sure Ollama is running.`
+        `[Slash Engine Extension] Do you want to pull the ${modelName} model? This has nothing to do with the huggingface.co website. The model will be pulled locally once you confirm. Make sure Ollama is running.`
       )
       if (ok) {
         alert(
-          `[Page Assist Extension] Pulling ${modelName} model. For more details, check the extension icon.`
+          `[Slash Engine Extension] Pulling ${modelName} model. For more details, check the extension icon.`
         )
 
         await browser.runtime.sendMessage({
@@ -34,7 +34,7 @@ export default defineContentScript({
         downloadButton.classList.add("pageassist-download-button")
         downloadButton.querySelector("svg")!.outerHTML = downloadSVG
         downloadButton.querySelector("span")!.textContent =
-          "Pull from Page Assist"
+          "Pull from Slash Engine"
         downloadButton.addEventListener("click", async () => {
           const preElement = modal.querySelector("pre")
           if (preElement) {

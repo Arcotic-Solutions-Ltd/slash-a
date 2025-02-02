@@ -1,6 +1,6 @@
 # Ollama Connection Issues
 
-Connection issues can be caused by a number of reasons. Here are some common issues and how to resolve them on Page Assist. You will see the following error message if there is a connection issue:
+Connection issues can be caused by a number of reasons. Here are some common issues and how to resolve them on Slash Engine. You will see the following error message if there is a connection issue:
 
 ### 1. Direct Connection Error
 ![Direct connection error](https://image.pageassist.xyz/Screenshot%202024-05-13%20001742.png)
@@ -12,9 +12,9 @@ This issue usually occurs when Ollama is not running on [http://127.0.0.1:11434/
 
 ### Solutions
 
-Since Ollama has connection issues when directly accessed from the browser extension, Page Assist rewrites the request headers to make it work. However, automatic rewriting of headers only works on `http://127.0.0.1:*` and `http://localhost:*` URLs. To resolve the connection issue, you can try the following solutions:
+Since Ollama has connection issues when directly accessed from the browser extension, Slash Engine rewrites the request headers to make it work. However, automatic rewriting of headers only works on `http://127.0.0.1:*` and `http://localhost:*` URLs. To resolve the connection issue, you can try the following solutions:
 
-1. Go to Page Assist and click on the `Settings` icon.
+1. Go to Slash Engine and click on the `Settings` icon.
 
 2. Click on the `Ollama Settings` tab.
 
@@ -30,7 +30,7 @@ Since Ollama has connection issues when directly accessed from the browser exten
 
 6. Make sure click on the `Save` button to save the changes.
 
-This will resolve the connection issue, and you will be able to use Ollama without any issues on Page Assist ❤
+This will resolve the connection issue, and you will be able to use Ollama without any issues on Slash Engine ❤
 
 7. If you are still facing issues, you can try the following steps:
 

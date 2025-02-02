@@ -47,7 +47,7 @@ export const ChromeApp = () => {
                   setChromeAIStatus(value)
                   if (
                     !value &&
-                    selectedModel === "chrome::gemini-nano::page-assist"
+                    selectedModel === "chrome::gemini-nano::slash-engine"
                   ) {
                     setSelectedModel(null)
                   }

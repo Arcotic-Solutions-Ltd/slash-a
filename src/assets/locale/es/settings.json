@@ -286,7 +286,7 @@
             "placeholder": "Token Bearer"
           }
         },
-        "help": "Si tenes problemas de conexión con Ollama en Page Assist, podes configurar una URL de personalizada. Para saber más sobre la configuración, <anchor>click aqui</anchor>."
+        "help": "Si tenes problemas de conexión con Ollama en Slash Engine, podes configurar una URL de personalizada. Para saber más sobre la configuración, <anchor>click aqui</anchor>."
       }
     }
   },
@@ -297,9 +297,9 @@
   "about": {
     "title": "Sobre",
     "heading": "Sobre",
-    "chromeVersion": "Versión de Page Assist",
+    "chromeVersion": "Versión de Slash Engine",
     "ollamaVersion": "Versión de Ollama",
-    "support": "Podes apoyar el proyecto Page Assist haciendo donaciones o patrocinarnos a través de las seguientes plataformas:",
+    "support": "Podes apoyar el proyecto Slash Engine haciendo donaciones o patrocinarnos a través de las seguientes plataformas:",
     "koFi": "Apoyar en Ko-fi",
     "githubSponsor": "Patrocinarnos en GitHub",
     "githubRepo": "Repositorio de GitHub"
