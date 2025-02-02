@@ -1,24 +1,24 @@
-# Contributing to Page Assist
+# Contributing to Slash Engine
 
-Thank you for your interest in contributing to Page Assist! We welcome contributions from anyone, whether it's reporting bugs, suggesting improvements, or submitting code changes.
+Thank you for your interest in contributing to Slash Engine! We welcome contributions from anyone, whether it's reporting bugs, suggesting improvements, or submitting code changes.
 
 ## Getting Started
 
 1. **Fork the repository**
 
-   To start contributing, you'll need to fork the [Page Assist repository](https://github.com/Arcotic-Solutions-Ltd/slash-a) by clicking the "Fork" button at the top right of the page.
+   To start contributing, you'll need to fork the [Slash Engine repository](https://github.com/Arcotic-Solutions-Ltd/slash-a) by clicking the "Fork" button at the top right of the page.
 
 2. **Clone your forked repository**
 
    Once you have your own fork, clone it to your local machine:
 
    ```
-   git clone https://github.com/YOUR-USERNAME/page-assist.git
+   git clone https://github.com/YOUR-USERNAME/slash-engine.git
    ```
 
 3. **Install dependencies**
 
-   Page Assist uses [Bun](https://bun.sh/) for dependency management. Install the required dependencies by running the following command in the project root directory:
+   Slash Engine uses [Bun](https://bun.sh/) for dependency management. Install the required dependencies by running the following command in the project root directory:
 
    ```
    bun install
@@ -42,7 +42,7 @@ Thank you for your interest in contributing to Page Assist! We welcome contribut
 
 5. **Install Ollama locally**
 
-   Page Assist requires [Ollama](https://ollama.ai) to be installed locally. Follow the installation instructions provided in the Ollama repository.
+   Slash Engine requires [Ollama](https://ollama.ai) to be installed locally. Follow the installation instructions provided in the Ollama repository.
 
 ## Making Changes
 

@@ -291,7 +291,7 @@
             "placeholder": "承载令牌"
           }
         },
-        "help": "如果您在 Page Assist 上与 Ollama 有连接问题,您可以配置自定义来源 URL。要了解更多关于配置的信息,<anchor>点击此处</anchor>。"
+        "help": "如果您在 Slash Engine 上与 Ollama 有连接问题,您可以配置自定义来源 URL。要了解更多关于配置的信息,<anchor>点击此处</anchor>。"
       }
     }
   },
