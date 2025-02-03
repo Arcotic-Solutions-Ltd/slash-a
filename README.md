@@ -6,7 +6,8 @@ Slash Engine is an open-source browser extension that offers a sidebar and web i
 Slash Engine supports Chromium-based browsers like Chrome, Brave, and Edge, as well as Firefox.
 
 [![Chrome Web Store](https://pub-35424b4473484be483c0afa08c69e7da.r2.dev/UV4C4ybeBTsZt43U4xis.png)](https://chrome.google.com/webstore/detail/slash-engine/jfgfiigpkhlkbnfnbobbkinehhfdhndo)
-[![Firefox Add-on](https://pub-35424b4473484be483c0afa08c69e7da.r2.dev/get-the-addon.png)](https://addons.mozilla.org/en-US/firefox/addon/slash-engine/)
+
+[//]: # ([![Firefox Add-on]&#40;https://pub-35424b4473484be483c0afa08c69e7da.r2.dev/get-the-addon.png&#41;]&#40;https://addons.mozilla.org/en-US/firefox/addon/slash-engine/&#41;)
 
 
 ## Features
