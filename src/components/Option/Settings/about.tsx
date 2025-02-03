@@ -73,10 +73,10 @@ export const AboutApp = () => {
               },
               {
                 key: 3,
-                label: "",
+                label: "X (formerly Twitter)",
                 children: (
                   <a
-                    href="https://twitter.com/slash_engine"
+                    href="https://x.com/slash_engine"
                     target="_blank"
                     rel="noreferrer"
                     className="text-blue-500 dark:text-blue-400">
