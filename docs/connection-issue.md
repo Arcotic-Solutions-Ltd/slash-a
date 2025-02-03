@@ -39,4 +39,4 @@ This will resolve the connection issue, and you will be able to use Ollama witho
 - Try again.
 
 
-If you still face any issues, feel free to contact us [here](https://github.com/Arcotic-Solutions-Ltd/slash-a/issues/new), and we will be happy to help you out.
+If you still face any issues, feel free to contact us [here](https://github.com/Arcotic-Solutions-Ltd/slash-engine/issues/new), and we will be happy to help you out.

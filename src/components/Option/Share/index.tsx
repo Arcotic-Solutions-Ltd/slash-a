@@ -117,7 +117,7 @@ export const OptionShareBody = () => {
                     components={{
                       anchor: (
                         <a
-                          href="https://github.com/Arcotic-Solutions-Ltd/slash-a/blob/main/page-share.md"
+                          href="https://github.com/Arcotic-Solutions-Ltd/slash-engine/blob/main/page-share.md"
                           target="__blank"
                           className="text-blue-600 dark:text-blue-400"></a>
                       )
