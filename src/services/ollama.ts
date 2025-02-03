@@ -14,7 +14,7 @@ const storage2 = new Storage({
 
 const DEFAULT_OLLAMA_URL = "http://127.0.0.1:11434"
 const DEFAULT_ASK_FOR_MODEL_SELECTION_EVERY_TIME = true
-const DEFAULT_PAGE_SHARE_URL = "https://pageassist.xyz"
+const DEFAULT_PAGE_SHARE_URL = "https://arcotic-solutions-ltd.github.io/slash-engine/"
 
 const DEFAULT_RAG_QUESTION_PROMPT =
   "Given the following conversation and a follow up question, rephrase the follow up question to be a standalone question.   Chat History: {chat_history} Follow Up Input: {question} Standalone question:"
