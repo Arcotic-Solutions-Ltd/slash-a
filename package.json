@@ -1,8 +1,8 @@
 {
   "name": "slash-a",
-  "displayName": "Slash Engine - A Web UI for Local AI Models",
+  "displayName": "Slash Engine - Web based interface for self hosted AI models.",
   "version": "1.0.9",
-  "description": "Use your locally running AI models to assist you in your web browsing.",
+  "description": "Use your locally hosted AI models to assist you in your web browsing.",
   "author": "Arcotic-Solutions-Ltd",
   "scripts": {
     "dev": "cross-env TARGET=chrome wxt",

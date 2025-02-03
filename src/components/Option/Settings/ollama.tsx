@@ -79,7 +79,7 @@ export const SettingsOllama = () => {
                           components={{
                             anchor: (
                               <a
-                                href="https://github.com/Arcotic-Solutions-Ltd/slash-a/blob/main/docs/connection-issue.md#solutions"
+                                href="https://github.com/Arcotic-Solutions-Ltd/slash-engine/blob/main/docs/connection-issue.md#solutions"
                                 target="__blank"
                                 className="text-blue-600 dark:text-blue-400"></a>
                             )

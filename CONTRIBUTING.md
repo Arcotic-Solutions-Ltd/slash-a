@@ -6,7 +6,7 @@ Thank you for your interest in contributing to Slash Engine! We welcome contribu
 
 1. **Fork the repository**
 
-   To start contributing, you'll need to fork the [Slash Engine repository](https://github.com/Arcotic-Solutions-Ltd/slash-a) by clicking the "Fork" button at the top right of the page.
+   To start contributing, you'll need to fork the [Slash Engine repository](https://github.com/Arcotic-Solutions-Ltd/slash-engine) by clicking the "Fork" button at the top right of the page.
 
 2. **Clone your forked repository**
 

@@ -63,7 +63,7 @@ export const AboutApp = () => {
                 label: "Community",
                 children: (
                   <a
-                    href="https://discord.com/invite/bu54382uBd"
+                    href="https://discord.com/invite/uEg9csVpWz"
                     target="_blank"
                     rel="noreferrer"
                     className="text-blue-500 dark:text-blue-400">
@@ -76,11 +76,11 @@ export const AboutApp = () => {
                 label: "X (formerly Twitter)",
                 children: (
                   <a
-                    href="https://twitter.com/slash_a"
+                    href="https://x.com/slash_engine"
                     target="_blank"
                     rel="noreferrer"
                     className="text-blue-500 dark:text-blue-400">
-                    @slash_a
+                    @slash_engine
                   </a>
                 )
               }
