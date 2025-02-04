@@ -140,6 +140,6 @@ Contributions are welcome. If you have any feature requests, bug reports, or que
 
 MIT
 
-## Last but not least
+## Dedicated to the Memory of Rohingya Genocide Martyrs
 
-In memory of the martyrs in [Rohingya genocide](https://en.wikipedia.org/wiki/Rohingya_genocide) #ProtectTheRohingya #StopRohingyaGenocide
+This project is dedicated to the memory of the martyrs of the [Rohingya genocide](https://en.wikipedia.org/wiki/Rohingya_genocide). May their struggles never be forgotten. #ProtectTheRohingya #StopRohingyaGenocide
