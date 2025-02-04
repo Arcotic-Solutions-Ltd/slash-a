@@ -142,4 +142,4 @@ MIT
 
 ## Last but not least
 
-Made in [Pakistan](https://en.wikipedia.org/wiki/pakistan) with ❤️
+In memory of the martyrs in [Rohingya genocide]([https://en.wikipedia.org/wiki/pakistan](https://en.wikipedia.org/wiki/Rohingya_genocide)) #ProtectTheRohingya #StopRohingyaGenocide
