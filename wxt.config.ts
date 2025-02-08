@@ -51,10 +51,10 @@ export default defineConfig({
   outDir: "build",
 
   manifest: {
-    version: "1.4.4",
+    version: "1.0.1",
     name:
       process.env.TARGET === "firefox"
-        ? "Slash Engine - A Web UI for Local AI Models"
+        ? "Slash Engine - Web based interface for self hosted AI models."
         : "__MSG_extName__",
     description: "__MSG_extDescription__",
     default_locale: "en",
@@ -64,7 +64,7 @@ export default defineConfig({
       process.env.TARGET === "firefox"
         ? {
           gecko: {
-            id: "slash-engine@nazeem"
+            id: "slash-engine@Arcotic-Solutions-Ltd"
           }
         }
         : undefined,
