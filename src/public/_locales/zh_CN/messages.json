@@ -1,6 +1,6 @@
 {
     "extName": {
-        "message": "Slash Engine - 本地 AI 模型的 Web UI"
+        "message": "Slash Engine - Web based interface for local AI models."
     },
     "extDescription": {
         "message": "使用本地运行的 AI 模型来辅助您的网络浏览。"
