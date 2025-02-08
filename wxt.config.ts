@@ -54,7 +54,7 @@ export default defineConfig({
     version: "1.0.1",
     name:
       process.env.TARGET === "firefox"
-        ? "Slash Engine - Web based interface for self hosted AI models."
+        ? "Slash Engine - Web based interface for local AI models."
         : "__MSG_extName__",
     description: "__MSG_extDescription__",
     default_locale: "en",
