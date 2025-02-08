@@ -1,6 +1,6 @@
 {
   "name": "slash-a",
-  "displayName": "Slash Engine - Web based interface for self hosted AI models.",
+  "displayName": "Slash Engine - Web based interface for local AI models.",
   "version": "1.0.9",
   "description": "Use your locally hosted AI models to assist you in your web browsing.",
   "author": "Arcotic-Solutions-Ltd",
